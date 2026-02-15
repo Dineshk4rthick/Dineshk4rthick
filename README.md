@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Dinesh%20Karthick&fontSize=40&fontColor=ffffff)
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
