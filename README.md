@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Dinesh%20Karthick&fontSize=40&fontColor=ffffff)
 <h1 align="center">Hey 👋What's Up?</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&lines=Backend+Systems+Builder;Data+Driven+Projects;Finance+%2B+Analytics+Focus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=36BCF7&lines=Backend+Systems+Builder;Data+Driven+Projects;Finance+%2B+Analytics+Focus)](https://git.io/typing-svg)
+
 
 ###
 
