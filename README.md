@@ -37,7 +37,7 @@
   <a href="dk4579@srmist.edu.in">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
-  <a href="dineshk4rthick.github.io/" target="_blank">
+  <a href="https://dineshk4rthick.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
 </div>
@@ -45,16 +45,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dineshk4rthick&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Dineshk4rthick&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dineshk4rthick&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dineshk4rthick&theme=dracula" alt="stats graph" />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dineshk4rthick&theme=dracula" height="180" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dineshk4rthick&theme=dracula" height="180" alt="productive time" />
+</div>
