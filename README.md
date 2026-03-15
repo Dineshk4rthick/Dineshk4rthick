@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Dinesh%20Karthick&fontSize=40&fontColor=ffffff)
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi there! 👋 What's Up?</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Focusing+On+quantitative+Finance;Data+Driven+Projects;Finance+%2B+Analytics+Focus" alt="Typing SVG" />
